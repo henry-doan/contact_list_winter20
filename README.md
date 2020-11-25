@@ -1,24 +1,17 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+contact
+ bob id 1 smith 123 123 123 bob@email.com is delete 
 
-Things you may want to cover:
+ note 
+ id 1 body: 'very loud' contact_id: 1
 
-* Ruby version
+orphan data 
 
-* System dependencies
 
-* Configuration
+contact
+ bob id 1 smith 123 123 123 bob@email.com is delete 
 
-* Database creation
+ note 
+ id 1 body: 'very loud' contact_id: 1 delete
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ 
